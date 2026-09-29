@@ -1,40 +1,67 @@
 
-<h1 align="center">Hi, I'm Arjun K.S. 👋</h1>
-<h3 align="center">Biomedical Engineering | Software | Healthcare Innovation</h3>
 
-<p align="center">
-  Building practical software and exploring the intersection
-  of healthcare, biomedical engineering and technology.
-</p>
+<div align="center">
+
+# ARJUN K.S.
+### Biomedical Engineering × Software Innovation
+
+**Exploring the intersection of healthcare, engineering and technology.**
+
+[GitHub](https://github.com/arjunks-2006) ·
+[LinkedIn](www.linkedin.com/in/arjun-ks-rspuram)
+
+</div>
 
 ---
 
-## 🚀 My Projects
+## 👨‍💻 About Me
 
-| Project | Description |
-|---|---|
-| MEDVERSE | Interactive 3D human anatomy |
-| ECG INSIGHT | ECG image and waveform analyzer |
-| HOSPITAL OS | Hospital management simulator |
-| DEV UNIVERSE | 3D interactive portfolio |
-| TRANSFER-X | Wheelchair transfer simulator |
-| BRAIN WAVES | Biomedical signal playground |
-| RESCUE ROUTE | Ambulance route simulator |
-| PIXEL PULSE | Animated GitHub profile |
+I'm Arjun, a Biomedical Engineering student at
+PSG College of Technology.
 
-## 🛠️ Technologies
+I enjoy building software applications, exploring
+biomedical technologies and turning ideas into
+interactive projects.
 
-Python · C · HTML · CSS · JavaScript · Git · GitHub
+**Currently exploring**
+- Biomedical engineering
+- Healthcare software
+- 3D web development
+- Biomedical signal processing
+- Python and JavaScript
 
-## 🎯 Areas of Interest
+---
 
-- Biomedical Engineering
-- Medical Imaging and Signal Processing
-- Healthcare Software
-- Interactive 3D Applications
-- Data Visualization
+## 🚀 Featured Projects
 
-## 📫 Connect with me
+| Project | Description | Status |
+|---|---|---|
+| 🧬 MEDVERSE | Interactive 3D anatomy explorer | In progress |
+| ❤️ ECG INSIGHT | ECG image and waveform analysis | Planned |
+| 🏥 HOSPITAL OS | Hospital management simulator | Planned |
+| 🌌 DEV UNIVERSE | Interactive 3D portfolio | Planned |
+| ♿ TRANSFER-X | Wheelchair transfer simulator | Planned |
+| 📈 BRAIN WAVES | Biomedical signal playground | Planned |
+| 🚑 RESCUE ROUTE | Ambulance route simulator | Planned |
+| ✨ PIXEL PULSE | Animated GitHub profile | In progress |
 
-- LinkedIn: www.linkedin.com/in/arjun-ks-rspuram
-- GitHub: https://github.com/arjunks-2006
+---
+
+## 🛠️ Technology Stack
+
+**Languages:** Python, C, JavaScript, HTML, CSS
+
+**Tools:** Git, GitHub, Arduino IDE
+
+**Interests:** Healthcare, 3D visualization,
+medical signal processing and software development.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+*Building ideas, one project at a time.*
+
+</div>
